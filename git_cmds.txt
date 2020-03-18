@@ -16,3 +16,9 @@ git config --global user.name "kmuthuramdba3"
 	- git remote add login https://github.com/kmuthuram3/pearlrepo.git
 	- git push -u origin master
 	- 
+	
+How to add an existing vs code project to git and github
+How to do commit and push whenever changes happen
+How to clone from github tp vscode
+How to remove project from git
+
