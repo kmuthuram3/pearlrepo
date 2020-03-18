@@ -1,0 +1,3 @@
+https://dbvisit.atlassian.net/wiki/spaces/ugd9/pages/128845213/Sample+Migration+involving+an+Oracle+Upgrade+with+Oracle+RMAN
+
+https://docs.oracle.com/en/cloud/paas/database-dbaas-cloud/csdbi/mig-11g-12c.html
