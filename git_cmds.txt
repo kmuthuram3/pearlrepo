@@ -1,0 +1,18 @@
+- check if git is already installed
+
+- Download and install git
+
+-- Add your project to git
+
+-- Commands:
+
+git config --global user.email "kmuthuramdba@gmail.com"
+git config --global user.name "kmuthuramdba3"
+
+	- git init
+	- git status
+	- git add
+	- git commit -m "..."
+	- git remote add login https://github.com/kmuthuram3/pearlrepo.git
+	- git push -u origin master
+	- 
