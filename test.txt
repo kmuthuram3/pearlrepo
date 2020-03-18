@@ -3,3 +3,4 @@ https://dbvisit.atlassian.net/wiki/spaces/ugd9/pages/128845213/Sample+Migration+
 https://docs.oracle.com/en/cloud/paas/database-dbaas-cloud/csdbi/mig-11g-12c.html
 
 changes1
+changes2
